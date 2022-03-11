@@ -1,5 +1,3 @@
-//ID: 208641472
-
 import hypernymdatabase.CreateDatabase;
 import hypernymdatabase.HypernymDatabase;
 import hypernymdatabase.ReadCorpus;
