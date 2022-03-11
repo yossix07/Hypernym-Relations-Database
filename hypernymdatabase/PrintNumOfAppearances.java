@@ -1,5 +1,3 @@
-//ID: 208641472
-
 package hypernymdatabase;
 import java.util.Comparator;
 import java.util.LinkedHashMap;
