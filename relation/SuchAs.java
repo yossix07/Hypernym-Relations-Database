@@ -1,5 +1,3 @@
-//ID: 208641472
-
 package relation;
 import hypernymdatabase.HypernymDatabase;
 import java.util.regex.Pattern;
