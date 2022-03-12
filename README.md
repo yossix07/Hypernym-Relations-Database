@@ -3,4 +3,4 @@
 
 **Project Description -** In this project there are two part: Creating a Hypernym-Relations database and discovering a lemma(hypernym) in a Hypernym-Relations database.
 * In the first part, the program reads all the files in the given directory path, finds and aggregates hypernym relations that match the Hearst patterns using regular expressions, and save them in a txt file at the given output path.
-* In the second part, the program searches all the possible hypernyms of the input lemma and print them and their number of appearances to the console. 
+* In the second part, the program searches all the possible hypernyms of the input lemma and prints them and their number of appearances to the console. 
